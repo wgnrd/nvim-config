@@ -12,5 +12,6 @@
   "nvim-web-devicons": { "branch": "master", "commit": "edbe0a65cfacbbfff6a4a1e98ddd60c28c560509" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
-  "vim-indent-guides": { "branch": "master", "commit": "a1e1390c0136e63e813d051de2003bf0ee18ae30" }
+  "vim-indent-guides": { "branch": "master", "commit": "a1e1390c0136e63e813d051de2003bf0ee18ae30" },
+  "vim-tmux-navigator": { "branch": "master", "commit": "424b5caa154bff34dc258ee53cec5a8e36cf7ea8" }
 }
